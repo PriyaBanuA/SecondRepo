@@ -1,1 +1,2 @@
-Hello, This is practice of Git 
+Hello, This is practice of Git .
+This is Git Tutorial... now watching.
